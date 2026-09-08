@@ -19,6 +19,15 @@ Outside of programming, I like chess and anime.
   <img src="https://img.shields.io/badge/C%2B%2B-89DCEB?style=for-the-badge&logo=cplusplus&logoColor=1E1E2E" alt="C++" />
 </p>
 
+## Languages & tools
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,react,linux,neovim,git,cmake,docker,sqlite&theme=dark&perline=6"
+    alt="C++, JavaScript, TypeScript, Python, Java, React, Linux, Neovim, Git, CMake, Docker and SQLite"
+  />
+</p>
+
 ## Selected projects
 
 - [chess-engine](https://github.com/Nerver-zip/chess-engine) — A C++ chess engine with a Raylib GUI, built to learn chess programming.
@@ -50,9 +59,9 @@ Outside of programming, I like chess and anime.
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/cba6f7/Nerver-zip"
-    width="95%"
-    alt="GitHub contribution calendar"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nerver-zip&theme=github_dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=1e1e2e&icon_color=89b4fa&chart_color=89b4fa"
+    width="90%"
+    alt="GitHub profile summary and contribution graph"
   />
 </p>
 
