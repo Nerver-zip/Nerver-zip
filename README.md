@@ -12,15 +12,18 @@ projects, mostly in C++, with an interest in algorithms, chess programming and L
 I also work with JavaScript, TypeScript, Python and Java when a project calls for them.
 Outside of programming, I like chess and anime.
 
+## Languages & tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-89B4FA?style=for-the-badge&logo=archlinux&logoColor=1E1E2E" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Hyprland-CBA6F7?style=for-the-badge&logo=wayland&logoColor=1E1E2E" alt="Hyprland" />
-  <img src="https://img.shields.io/badge/Catppuccin-F5C2E7?style=for-the-badge&logo=catppuccin&logoColor=1E1E2E" alt="Catppuccin" />
-  <img src="https://img.shields.io/badge/C%2B%2B-89DCEB?style=for-the-badge&logo=cplusplus&logoColor=1E1E2E" alt="C++" />
+  <img
+    src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,react,linux,neovim,git,cmake,docker,sqlite&theme=dark&perline=6"
+    alt="C++, JavaScript, TypeScript, Python, Java, React, Linux, Neovim, Git, CMake, Docker and SQLite"
+  />
 </p>
 
-## Selected projects
+## Some projects
 
+- [ai-window-manager](https://github.com/Nerver-zip/ai-window-manager) — Self-hosted monitor and scheduler that automatically starts new OpenAI Codex and Google Antigravity usage windows when it’s safe and on schedule.
 - [chess-engine](https://github.com/Nerver-zip/chess-engine) — A C++ chess engine with a Raylib GUI, built to learn chess programming.
 - [fisiotrack](https://github.com/Nerver-zip/fisiotrack) — Patient records and scheduling for a physiotherapy clinic's local network. C++ and React.
 - [moodle-storage-tui](https://github.com/Nerver-zip/moodle-storage-tui) — Manage private Moodle files from the terminal. C++.
@@ -30,6 +33,7 @@ Outside of programming, I like chess and anime.
 - [BeszelFetch](https://github.com/Nerver-zip/BeszelFetch) — A Catppuccin homelab monitoring widget for Android, using KWGT and Beszel.
 - [leetembed](https://github.com/Nerver-zip/leetembed) — Discord link previews for LeetCode problems. JavaScript.
 - [fourier-drawing](https://github.com/Nerver-zip/fourier-drawing) — Reconstruct SVG drawings with animated Fourier epicycles. C++ and Python.
+- [breathe](https://github.com/Nerver-zip/breathe) — A lightweight terminal application for multi-round breathing exercises, breath-hold retention tracking
 
 [More repositories](https://github.com/Nerver-zip?tab=repositories)
 
@@ -50,9 +54,9 @@ Outside of programming, I like chess and anime.
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/cba6f7/Nerver-zip"
-    width="95%"
-    alt="GitHub contribution calendar"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nerver-zip&theme=github_dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=1e1e2e&icon_color=89b4fa&chart_color=89b4fa"
+    width="90%"
+    alt="GitHub profile summary and contribution graph"
   />
 </p>
 
