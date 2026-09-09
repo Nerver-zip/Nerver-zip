@@ -28,7 +28,7 @@ Outside of programming, I like chess and anime.
   />
 </p>
 
-## Selected projects
+## Some projects
 
 - [chess-engine](https://github.com/Nerver-zip/chess-engine) — A C++ chess engine with a Raylib GUI, built to learn chess programming.
 - [fisiotrack](https://github.com/Nerver-zip/fisiotrack) — Patient records and scheduling for a physiotherapy clinic's local network. C++ and React.
