@@ -30,10 +30,11 @@ Outside of programming, I like chess and anime.
 - [resistorlens](https://github.com/Nerver-zip/resistorlens) — An Android app for reading resistor bands through manual color sampling. Java.
 - [karaoke-cli](https://github.com/Nerver-zip/karaoke-cli) — Synchronized Spotify lyrics in the terminal. C++.
 - [ghinfo](https://github.com/Nerver-zip/ghinfo) — A small C++ service that provides GitHub activity data for widgets and dashboards.
-- [BeszelFetch](https://github.com/Nerver-zip/BeszelFetch) — A Catppuccin homelab monitoring widget for Android, using KWGT and Beszel.
+- [BeszelFetch](https://github.com/Nerver-zip/BeszelFetch) — A homelab monitoring widget for Android, using KWGT and Beszel.
 - [leetembed](https://github.com/Nerver-zip/leetembed) — Discord link previews for LeetCode problems. JavaScript.
 - [fourier-drawing](https://github.com/Nerver-zip/fourier-drawing) — Reconstruct SVG drawings with animated Fourier epicycles. C++ and Python.
 - [breathe](https://github.com/Nerver-zip/breathe) — A lightweight terminal application for multi-round breathing exercises, breath-hold retention tracking
+- [SpotiTheme](https://github.com/Nerver-zip/SpotiTheme) — Personalize Spotify on Android with 29 ready-to-use color themes, or make your own.
 
 [More repositories](https://github.com/Nerver-zip?tab=repositories)
 
