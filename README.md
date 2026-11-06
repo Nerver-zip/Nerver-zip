@@ -23,7 +23,7 @@ Outside of programming, I like chess and anime.
 
 ## Some projects
 
-- [ai-window-manager](https://github.com/Nerver-zip/ai-window-manager) — Self-hosted monitor and scheduler that automatically starts new OpenAI Codex and Google Antigravity usage windows when it’s safe and on schedule.
+- [ai-window-manager](https://github.com/Nerver-zip/ai-window-manager) — Self-hosted monitor and scheduler that automatically starts new Codex, Antigravity and Claude Code usage windows when it’s safe and on schedule.
 - [chess-engine](https://github.com/Nerver-zip/chess-engine) — A C++ chess engine with a Raylib GUI, built to learn chess programming.
 - [fisiotrack](https://github.com/Nerver-zip/fisiotrack) — Patient records and scheduling for a physiotherapy clinic's local network. C++ and React.
 - [moodle-storage-tui](https://github.com/Nerver-zip/moodle-storage-tui) — Manage private Moodle files from the terminal. C++.
